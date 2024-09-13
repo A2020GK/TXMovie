@@ -1,0 +1,8 @@
+.timeline {
+    height: 100px;
+    background-color: gray;
+    width: 100%;
+}
+.timeline-body {
+    padding: 15px;
+}
